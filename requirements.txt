@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/peft
+git+https://github.com/huggingface/trl
+pandas 
+torch 
+datasets
+unsloth
